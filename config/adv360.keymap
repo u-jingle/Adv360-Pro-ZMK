@@ -80,11 +80,11 @@
 
         layer_happy_hacking {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                                  &trans  &trans  &trans    &trans     &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans                                                                                  &trans  &trans  &trans    &trans     &kp UP  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans                  &trans                  &trans                  &trans  &trans  &trans  &kp LEFT  &kp RIGHT  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                                  &trans  &trans    &trans   &kp DOWN  &trans  &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &mt LEFT_COMMAND ENTER  &mt LEFT_COMMAND SPACE          &trans    &trans     &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                                  &trans  &trans  &trans    &trans     &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                                                  &trans  &trans  &trans    &trans     &kp UP  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                   &trans  &trans  &trans                  &trans                  &trans                  &trans  &trans  &trans  &kp LEFT  &kp RIGHT  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                   &trans                  &trans                                                  &trans  &trans    &trans   &kp DOWN  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans                    &kp BACKSPACE  &trans  &trans                  &trans  &mt LEFT_COMMAND ENTER  &mt LEFT_COMMAND SPACE          &trans    &trans     &trans  &trans  &trans
             >;
         };
 
